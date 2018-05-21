@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FootballPlayers</string>
+    <string name="Birth_date">date naissance</string>
+    <string name="position">position</string>
+    <string name="amount_mercato">montant transfert</string>
+    <string name="Name">Nom prénom</string>
+    <string name="Name_League">nom de la ligue</string>
+    <string name="Country_league">Pays de la ligue</string>
+</resources>
